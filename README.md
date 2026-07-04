@@ -19,3 +19,5 @@ helpers.py -- contains other functions used for the computation of Figs.
 
 Folders:
 results.zip -- contains all the generated data
+
+10.5281/zenodo.21193888
