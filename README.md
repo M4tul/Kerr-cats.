@@ -11,9 +11,9 @@ comparison.ipynb -- computes fidelity and expectation value, Eqs. (24), (25), an
 catability_vs_infidelity.ipynb -- computes Eqs. (32), and (34), stores data into results, uses data computed by 
 normalization.ipynb 
 
-transposition.ipynb -- generates data for Fig. 6 and plot Fig. 6
+transposition.ipynb -- generates data for Fig. 6 and plot Fig. 6, stores data into results
 
-transposition2.ipynb -- generates data for Fig. 7 and plot Fig. 7
+transposition2.ipynb -- generates data for Fig. 7 and plot Fig. 7, stores data into results
 
 Folders:
 results.zip -- contains all the generated data
