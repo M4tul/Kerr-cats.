@@ -1,5 +1,5 @@
 # Kerr-cats.
-The repository for datasets and data-generating codes for the article:  https://doi.org/10.48550/arXiv.2606.22641.
+The repository for datasets and data-generating codes for the research presented under  https://doi.org/10.48550/arXiv.2606.22641.
 
 Files: 
 present_kerr_cat.ipynb -- reproduces figures 2-5, uses results as a source folder 
